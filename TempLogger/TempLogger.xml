@@ -1,0 +1,12 @@
+<TempLogger>
+  <Interval>5</Interval>
+  <IpAddress>192.168.48.125</IpAddress>
+  <Port>80</Port>
+  <password>YWRtaW4=</password>
+  <LogFileName>C:\Users\rwilson\Desktop\Temperature_20170329.txt</LogFileName>
+  <LoggingState>0</LoggingState>
+  <Sensor1Name>Outside Temp</Sensor1Name>
+  <Sensor2Name>Internal Temp</Sensor2Name>
+  <Sensor3Name>Air Temp</Sensor3Name>
+  <Sensor4Name>Room Temp</Sensor4Name>
+</TempLogger>

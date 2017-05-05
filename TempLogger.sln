@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBWTempLogger", "TempLogger\CBWTempLogger.csproj", "{C66C6ECB-D075-4743-AC4E-C5EAE51E0D91}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CBW Temperature Logger", "CBW Temperature Logger\CBW Temperature Logger.vdproj", "{5DC7ACEE-6338-496D-8999-5972EB664C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C66C6ECB-D075-4743-AC4E-C5EAE51E0D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66C6ECB-D075-4743-AC4E-C5EAE51E0D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66C6ECB-D075-4743-AC4E-C5EAE51E0D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66C6ECB-D075-4743-AC4E-C5EAE51E0D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC7ACEE-6338-496D-8999-5972EB664C8B}.Debug|Any CPU.ActiveCfg = Debug
+		{5DC7ACEE-6338-496D-8999-5972EB664C8B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
